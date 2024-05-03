@@ -1,0 +1,14 @@
+#stripe-blue{
+    width: 800px;
+    height: 500px;
+    background-color: #005bbb;
+    position: relative;
+}
+
+#stripe-yellow{
+    width: 800px;
+    height: 250px;
+    background-color: #ffd500;
+    position: absolute;
+    top: 50%;
+}
