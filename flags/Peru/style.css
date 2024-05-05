@@ -1,0 +1,17 @@
+#flag{
+    width: 801px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+}
+
+.stripe{
+    width: 267px;
+    height: 500px;
+    background-color: #D91023;
+    position: absolute;
+}
+
+.stripe-rigth{
+    left: 534px;
+}
