@@ -1,0 +1,29 @@
+#flag{
+    width: 800px;
+    height: 504px;
+    background-color: #0F499F;
+    position: relative;
+}
+
+.stripe{
+    width: 100%;
+    height: 56px;
+    background-color: white;
+    position: absolute;
+}
+
+.pos-one{
+    top: 56px;
+}
+
+.pos-two{
+    top: 168px;
+}
+
+.pos-three{
+    top: 280px;
+}
+
+.pos-four{
+    top: 392px;
+}
